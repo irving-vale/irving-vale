@@ -5,6 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irving-vale&label=Profile%20views&color=0e75b6&style=flat" alt="irving-vale" /> </p>
 
+- 🔭 I’m currently studying **Software Engineering**
+
 - 🌱 I’m currently learning **Jakarta EE & Design Patterns**
 
 - 👨‍💻 All of my projects are available at [https://github.com/irving-vale](https://github.com/irving-vale)
