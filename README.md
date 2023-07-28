@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Irving Valencia</h1>
 <div align="center"> <img src ="https://raw.githubusercontent.com/irving-vale/irving-vale/main/fondo baner.jpg"></div>
 <h3 align="center">A passionate Java Backend Developer from Mexico</h3>
-<img  align="right" alt="Coding" width ="400"  src ="https://raw.githubusercontent.com/irving-vale/irving-vale/main/gif3.gif"></div>
+<img align="right" alt="Coding" width ="250"  src ="https://raw.githubusercontent.com/irving-vale/irving-vale/main/gif3.gif"></div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irving-vale&label=Profile%20views&color=0e75b6&style=flat" alt="irving-vale" /> </p>
 
